@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KristupasKad
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in web development with python
 - 🌱 I’m currently learning Python
 
 <!---
